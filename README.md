@@ -7,7 +7,7 @@ El área de operaciones requiere contar con información confiable al menos 4 ho
 ## Objetivo
 Desarrollar un prototipo analítico que permita estimar y optimizar el uso de la bodega de equipaje por vuelo, utilizando datos sintéticos y entregando resultados accionables para el área de operaciones.
 
-## Alcance de la solución
+## Propuesta
 La solución se divide en dos partes:
 - **Propuesta conceptual**, donde se define qué datos serían necesarios y cómo se construiría el producto analítico.
 - **Prototipo técnico**, donde se implementa un ejemplo simplificado con datos sintéticos en Python.
